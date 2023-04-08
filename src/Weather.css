@@ -1,0 +1,18 @@
+.Weather {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid plum;
+  padding: 40px 30px 0px 30px;
+}
+.Weather h1 {
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.Temperature .degree {
+  font-size: 60px;
+}
+.Temperature .units {
+  position: relative;
+  top: -32px;
+}
